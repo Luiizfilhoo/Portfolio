@@ -14,21 +14,21 @@ margin: 30px auto;
 }
 
 
-.Foto curriculo {
-    width: 100; 
+.Foto-curriculo {
+    width: 100px; 
 }
 
 .header-tittle {
-    display flex: ;
+    display: flex;
 }
 
-.personal infor {
+.personal-infor {
     width: 100%;
     text-align: end;
 }
 
 .header-menu{
-    display flex: ;
+    display: flex;
     gap: 50px;
     margin-top: 20px;
     justify-content: center;
