@@ -8,8 +8,10 @@ body {
 }
 
 .container {
-width: 50%;
+width: 80%;
 margin: 30px auto;
+display: grid;
+gap: 30px;
 
 }
 
