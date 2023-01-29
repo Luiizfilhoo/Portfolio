@@ -5,11 +5,13 @@ border-radius: 5px;
 border: 1px solid black;
 display: grid
 
-
-
 }
 
-.skills-container{
+.title {
+margin-top: 30px;
+}
+
+.skills-container {
     display: flex;
     justify-content: center;
     gap: 30x;
@@ -33,4 +35,7 @@ list-style: circle;
 
 }
     
+.skills-container > ul > li {
+    text-transform: capitalize;
+}
     
