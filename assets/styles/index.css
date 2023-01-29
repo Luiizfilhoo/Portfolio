@@ -1,0 +1,36 @@
+.about-me{
+background-color: rgb(189, 189, 189);
+padding: 20px 20px;
+border-radius: 5px;
+border: 1px solid black;
+display: grid
+
+
+
+}
+
+.skills-container{
+    display: flex;
+    justify-content: center;
+    gap: 30x;
+    padding: 10px 30px;
+    
+}
+
+.skills-container > div {
+background-color: silver;
+border: 1px solid rgb(0, 0, 0);
+padding: 20px;
+border-radius: 5px;
+box-shadow: 7px 10px black;
+max width: 150px;
+min-width: 150px;
+}
+
+.skills-container > ul {
+margin-left: 30px;
+list-style: circle;
+
+}
+    
+    
