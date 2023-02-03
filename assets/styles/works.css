@@ -1,11 +1,20 @@
+
+.professional-experience-container {
+    border-radius: 5px;
+    display: grid;
+     gap: 30px; 
+    margin-bottom: 40px;
+    margin: 0px 15px;
+    
+}
+
 .professional-experience-container {
     background-color: silver;
     border: 1px solid;
-    padding: 20px;
+    padding: 1px;
     border-radius: 5px;
-    display grid: 10px;
-    gap: 30px; 
-    margin-top: 30px;
+
+   
 }
 
 .activity {
